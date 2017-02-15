@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SalvaVita/ViewController.swift"
+            timestampString = "508849584.291787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ambulanza(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SalvaVita.ViewController.map.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.MKMapView&gt;"
+                  moduleName = "SalvaVita"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariasalminen-bavaro/Desktop/Xcode%20Projektit/SalvaVita/SalvaVita/ViewController.swift"
+                  timestampString = "508849749.516082"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SalvaVita.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SalvaVita.ViewController"
+                  moduleName = "SalvaVita"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariasalminen-bavaro/Desktop/Xcode%20Projektit/SalvaVita/SalvaVita/ViewController.swift"
+                  timestampString = "508849749.520318"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SalvaVita.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SalvaVita.ViewController&gt;"
+                  moduleName = "SalvaVita"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariasalminen-bavaro/Desktop/Xcode%20Projektit/SalvaVita/SalvaVita/ViewController.swift"
+                  timestampString = "508849749.523066"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
